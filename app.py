@@ -9,7 +9,7 @@ from streamlit_pandas_profiling import st_profile_report
 st.markdown('''
 # **The EDA App**
 
-This is the **EDA App** created in Streamlit using the **pandas-profiling** library.
+This is the **EDA App** created in Streamlit using the **pandas-profiling** library. Either upload your own csv file or test with sample data below
 
 **Credit:** App built in `Python` + `Streamlit` by [Chanin Nantasenamat](https://medium.com/@chanin.nantasenamat) (aka [Data Professor](http://youtube.com/dataprofessor))
 
